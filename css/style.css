@@ -1,0 +1,47 @@
+body {
+    background-color:rgb(233, 213, 224);
+    font-family: 'Courier New', Courier, monospace;
+    color:rgb(0, 0, 0);
+}
+.nav_bar {
+    font-size: 30px;
+    font-weight: bold;
+}
+.container {
+}
+.row {
+}
+.col-8 {
+    margin-top: 10px;
+    padding: 30px;
+}
+.col-4 {
+}
+
+.photo {
+    background: url(../images/memgoda2.jpg) no-repeat center center;
+    background-size: 100%;
+    width: 400px;
+    height: 600px;
+}
+
+.col-3.nav_logo { 
+    background: url(../images/logo.jpg) no-repeat center center;
+    background-size: 100%;
+    width: 50px;
+    height: 50px;
+    margin-top: 10px ;
+}
+.col-9 {
+}
+.nav_text {
+    margin-top: 10px; 
+    margin-left: 40px;
+    display: flex;
+    align-items: center;
+}
+.img_size {
+}
+.title_photo {
+    text-align: center;
+}
